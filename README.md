@@ -1,4 +1,4 @@
-[![waveform](https://lanyard.kyrie25.dev/api/169892524?waveColor=fff&waveSpoitifyColor=212121&gradient=fff&borderRadius=25px&bg=000)](https://discord.gg/dgmK9F2tvc)
+[![waveform](https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=fff&waveSpoitifyColor=212121&gradient=fff&borderRadius=25px&bg=000)](https://discord.gg/dgmK9F2tvc)
 
 **↖ Snippet of my profile**  
 noob developer who somehow makes things work  
