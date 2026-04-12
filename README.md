@@ -1,32 +1,27 @@
-[![waveform](https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=fff&waveSpoitifyColor=212121&gradient=fff&borderRadius=25px&bg=000)](https://discord.gg/dgmK9F2tvc)
+[![waveform](https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=000&waveSpoitifyColor=212121&gradient=000&borderRadius=25px&bg=fff)](https://discord.gg/dgmK9F2tvc)
 
 **↖ Snippet of my profile**  
-noob developer who somehow makes things work  
-currently studying at UMP, learning android from scratch  
-self-taught, figuring it out one error at a time  
-based in Indonesia, coding at ungodly hours
+Computer Science student at Universitas Muhammadiyah Purwokerto  
+Focused on Android development and web technologies  
+Self-taught, building real projects to sharpen my skills  
+Based in Indonesia — open to collaborate
 
 &nbsp;
 
-![currently coding](https://img.shields.io/badge/currently-coding-111?style=flat)
-![status](https://img.shields.io/badge/status-noob-222?style=flat)
-![focus](https://img.shields.io/badge/focus-android-333?style=flat)
-![mood](https://img.shields.io/badge/mood-🥵-444?style=flat)
+![student](https://img.shields.io/badge/student-UMP-111?style=flat)
+![focus](https://img.shields.io/badge/focus-android-222?style=flat)
+![open to](https://img.shields.io/badge/open_to-collaborate-333?style=flat)
 
 &nbsp;
 
 ### Projects
 
-[Portfolio](https://hymndavinci.vercel.app) — my personal site, built and deployed on vercel  
-and more at [repositories](https://github.com/hymndavinci?tab=repositories)...
+[spotify-downloader](https://github.com/hymndavinci/spotify-downloader) — download Spotify tracks via JavaScript  
+[Exe](https://github.com/hymndavinci/Exe) — TypeScript utility project  
+[rpc](https://github.com/hymndavinci/rpc) — Discord rich presence integration  
+[hymn](https://github.com/hymndavinci/hymn) — personal site built with Astro  
+[hymndavinci.vercel.app](https://hymndavinci.vercel.app) — portfolio, live on Vercel
 
 &nbsp;
 
-[![Instagram](https://img.shields.io/badge/Instagram-@bintankdisini-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bintankdisini)
-[![TikTok](https://img.shields.io/badge/TikTok-@hymndavinci-000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@hymndavinci)
-[![Telegram](https://img.shields.io/badge/Telegram-cahay4ngkasa-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cahay4ngkasa)
-
-&nbsp;
-
-![building in public](https://img.shields.io/badge/building_in_public-111?style=for-the-badge)
-![never stop learning](https://img.shields.io/badge/never_stop_learning-222?style=for-the-badge)
+— [instagram](https://instagram.com/bintankdisini) · [tiktok](https://tiktok.com/@hymndavinci) · [telegram](https://t.me/cahay4ngkasa) · [discord](https://discord.gg/dgmK9F2tvc) · [email](mailto:hymndavinci@gmail.com)
