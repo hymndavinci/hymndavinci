@@ -8,7 +8,7 @@ Based in Indonesia — open to collaborate
 
 &nbsp;
 
-![student](https://img.shields.io/badge/student-UMP-111?style=flat)
+![student](https://img.shields.io/badge/student-111?style=flat)
 ![focus](https://img.shields.io/badge/focus-android-222?style=flat)
 ![open to](https://img.shields.io/badge/open_to-collaborate-333?style=flat)
 
