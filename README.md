@@ -1,7 +1,7 @@
 [![waveform](https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=000&waveSpoitifyColor=212121&gradient=000&borderRadius=25px&bg=fff)](https://discord.gg/dgmK9F2tvc)
 
 **↖ Snippet of my profile**  
-Computer Science student at Universitas Muhammadiyah Purwokerto  
+Computer Science student 
 Focused on Android development and web technologies  
 Self-taught, building real projects to sharpen my skills  
 Based in Indonesia — open to collaborate
