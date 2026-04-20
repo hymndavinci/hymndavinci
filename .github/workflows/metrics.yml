@@ -1,6 +1,8 @@
 name: Metrics
 on:
+  schedule: [{cron: "0 0 * * *"}]  # Update tiap hari
   workflow_dispatch:
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
@@ -10,6 +12,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: YOUR_USERNAME
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Plugin yang mau diaktifkan
+          plugin_isocalendar: yes
           plugin_languages: yes
+          plugin_achievements: yes
