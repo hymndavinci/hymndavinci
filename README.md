@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="left" height="260" src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=fff&waveSpoitifyColor=212121&gradient=fff&borderRadius=25px&bg=000"/>
+<img align="left" height="260" src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=000&waveSpoitifyColor=212121&gradient=000&borderRadius=25px&bg=fff"/>
 </p>
 <div align="right">
 
