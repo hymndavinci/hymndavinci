@@ -17,10 +17,6 @@ Exploring different technologies and improving step by step<br>
 </div>
 <br clear="both">
 
-### Projects
-[repo1](https://github.com/bintang/repo1) - deskripsi singkat<br>
-[repo2](https://github.com/bintang/repo2) - deskripsi singkat<br>
-and many more at [repositories](https://github.com/bintang?tab=repositories)...<br>
 
 <div align="center">
 
