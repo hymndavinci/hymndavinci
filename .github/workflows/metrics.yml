@@ -12,13 +12,3 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          plugin_topics: yes
-          plugin_topics_mode: icons
-
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_threshold: 0
-
-          plugin_activity: yes
-          plugin_activity_limit: 5
