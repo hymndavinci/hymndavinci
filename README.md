@@ -1,21 +1,17 @@
-<table>
-<tr>
-<td valign="top" width="40%">
-
-[![waveform](https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=000&waveSpoitifyColor=212121&gradient=000&borderRadius=25px&bg=fff)](https://discord.gg/dgmK9F2tvc)
-
-</td>
-<td valign="top" align="right" width="60%">
+<p align="left">
+  <img align="left" height="260" src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=fff&waveSpoitifyColor=212121&gradient=fff&borderRadius=25px&bg=000"/>
+</p>
+<div align="right">
 
 **↖ Snippet of my profile**<br>
 I code and build stuff, sometimes it even works<br>
 Started my coding journey at a young age<br>
 Fully self-taught, learning and building every day<br>
 Exploring different technologies and improving step by step<br>
+<br>
 
-</td>
-</tr>
-</table>
+</div>
+<br clear="both">
 
 <div align="center">
 
