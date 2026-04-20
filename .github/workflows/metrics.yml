@@ -5,9 +5,11 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: hymndavinci
+          user: YOUR_USERNAME
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
