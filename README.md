@@ -18,10 +18,9 @@ Exploring different technologies and improving step by step<br>
 <br clear="both">
 
 
-<div align="center">
 
 ![Metrics](./github-metrics.svg)
-
+<div align="center">
 <a href="https://instagram.com/bintankdisini">
   <img src="https://img.shields.io/badge/Instagram-@bintankdisini-000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
