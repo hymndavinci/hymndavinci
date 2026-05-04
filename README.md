@@ -14,6 +14,10 @@ Exploring different technologies and improving step by step<br>
 <img src="https://img.shields.io/badge/focus-learning-333?style=flat">
 <img src="https://img.shields.io/badge/building-projects-444?style=flat">
 
+
+
+
+
 </div>
 <br clear="both">
 
