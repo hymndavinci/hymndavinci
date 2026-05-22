@@ -82,12 +82,20 @@ const profile = {
 
 ---
 
-### GitHub Activity
+### Repository Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hymndavinci&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA&icon_color=38BDF8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymndavinci&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA" height="165" />
+<p align="left">
+  <a href="https://github.com/hymndavinci?tab=repositories">
+    <img src="https://img.shields.io/badge/Open_Repositories-View_on_GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Open repositories" />
+  </a>
 </p>
+
+| Area | What I build |
+| --- | --- |
+| **Web Apps** | Portfolio sites, dashboards, streaming-style interfaces, weather apps |
+| **Full-Stack Tools** | Auth flows, database-backed comments, rating systems, API routes |
+| **Automation** | Discord utilities, worker services, screenshot tools, queue processors |
+| **Learning** | Security basics, backend architecture, performance, deployment workflows |
 
 ---
 
