@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=38BDF8&waveSpotifyColor=38BDF8&gradient=0A0A0A&borderRadius=18px&bg=0A0A0A" alt="Discord Presence" />
+</p>
+
 ---
 
 ### About
