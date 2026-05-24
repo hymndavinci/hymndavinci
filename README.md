@@ -1,46 +1,62 @@
-<h1 align="center">Muhammad Bintang Kurniawan</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Enthusiast</b><br />
-  Building web interfaces, full-stack projects, automation tools, and clean digital experiences.
-</p>
+# Muhammad Bintang Kurniawan
 
-<p align="center">
-  <a href="https://hymndavinci.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-hymndavinci.my.id-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hymndavinci@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/bintankdisini">
-    <img src="https://img.shields.io/badge/Instagram-@bintankdisini-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/cahay4ngkasa">
-    <img src="https://img.shields.io/badge/Telegram-@cahay4ngkasa-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+**Software Engineering Enthusiast**  
+Computer Science student focused on web development, dashboard systems, automation, and clean digital products.
 
-<p align="center">
-  <img src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=38BDF8&waveSpotifyColor=38BDF8&gradient=0A0A0A&borderRadius=18px&bg=0A0A0A" alt="Discord Presence" />
-</p>
+<a href="https://hymndavinci.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-hymndavinci.my.id-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:hymndavinci@gmail.com">
+  <img src="https://img.shields.io/badge/Email-contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/bintankdisini">
+  <img src="https://img.shields.io/badge/Instagram-@bintankdisini-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/cahay4ngkasa">
+  <img src="https://img.shields.io/badge/Telegram-@cahay4ngkasa-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
 
 ---
 
-### About
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-I am an Indonesian Computer Science student focused on practical software development. I like building products that are visually clean, technically useful, and easy to maintain.
+### Profile
 
-My work mostly revolves around modern web development, dashboards, automation systems, Discord tooling, API integration, and experiments around developer workflows.
+I build practical software with a strong focus on interface quality, maintainability, and useful automation.
+
+My work mostly sits around full-stack web apps, control panels, Discord tooling, API integrations, worker services, and developer-focused utilities.
 
 ```ts
 const profile = {
   name: 'Muhammad Bintang Kurniawan',
   handle: 'hymndavinci',
-  role: 'Software Engineering Enthusiast',
   location: 'Indonesia',
-  focus: ['Web Development', 'Full-Stack Apps', 'Automation', 'Developer Tools'],
+  role: 'Software Engineering Enthusiast',
+  focus: [
+    'Web Development',
+    'Dashboard Systems',
+    'Automation Tools',
+    'Developer Workflow',
+  ],
 }
 ```
+
+</td>
+<td width="42%" valign="top">
+
+### Live Presence
+
+<img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=38BDF8&waveSpotifyColor=38BDF8&gradient=0A0A0A&borderRadius=18px&bg=0A0A0A&animated=true&hideDiscrim=true&idleMessage=Probably%20building%20something" alt="Discord Presence" />
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -50,8 +66,8 @@ const profile = {
   <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=white" />
@@ -61,31 +77,35 @@ const profile = {
   <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=flat-square&logo=cloudflare&logoColor=F38020" />
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 ---
 
 ### Current Focus
 
-- Building cleaner full-stack web apps
-- Improving UI systems and interaction design
-- Working with API integrations and automation flows
-- Learning stronger backend architecture and security fundamentals
-- Shipping projects with better performance and maintainability
+```txt
+Full-stack web apps        Clean interface systems
+Dashboard architecture     API integration workflows
+Automation services        Backend and security fundamentals
+```
 
 ---
 
 ### Work Area
 
-| Area | Focus |
+| Area | Direction |
 | --- | --- |
-| **Web Apps** | Interfaces, dashboards, API-driven products |
-| **Full-Stack** | Auth flow, database models, REST routes, deployment |
-| **Automation** | Discord utilities, worker services, queue processors |
-| **Learning** | Security basics, backend architecture, performance |
+| **Frontend** | Interface systems, responsive layouts, product dashboards |
+| **Backend** | REST routes, auth flow, data handling, service structure |
+| **Automation** | Discord utilities, workers, queues, scheduled jobs |
+| **Infrastructure** | Deployment workflow, server panels, monitoring, runtime cleanup |
+| **Learning** | Security basics, system design, maintainable architecture |
 
 ---
 
-<p align="center">
-  <i>Focused on building useful software with clean interfaces and solid execution.</i>
-</p>
+<div align="center">
+
+<i>Building useful software with clean interfaces and solid execution.</i>
+
+</div>
