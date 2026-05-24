@@ -37,17 +37,17 @@ I like software that is simple to use, structured well, and useful in real workf
 </td>
 <td width="40%" valign="top" align="center">
 
-<h2>Discord Status</h2>
+<h2>Discord Profile Activity</h2>
 
 <a href="https://discord.com/users/443335216833101825">
-  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=0D1117&borderRadius=18px&hideActivity=true&idleMessage=Building%20clean%20systems" alt="Discord Presence" />
+  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&idleMessage=Lets%20Connects!" alt="Discord Presence" />
 </a>
 
 <br />
 <br />
 
 <a href="https://discord.com/users/443335216833101825">
-  <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Profile" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=84&color=0:5865F2,100:38BDF8&text=Discord%20Channel&fontColor=FFFFFF&fontSize=24&fontAlign=36&fontAlignY=45&desc=Chat%20now%20%E2%86%92&descAlign=76&descAlignY=48&descSize=15" alt="Discord Channel" />
 </a>
 
 </td>
