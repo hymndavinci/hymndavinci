@@ -37,25 +37,16 @@ I like software that is simple to use, structured well, and useful in real workf
 </td>
 <td width="40%" valign="top" align="center">
 
-<h2>Profile Card</h2>
+<h2>Discord Status</h2>
 
-```txt
-handle    hymndavinci
-role      student developer
-focus     web / backend / automation
-stack     ts / node / next.js
-base      indonesia
-```
+<a href="https://discord.com/users/443335216833101825">
+  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=0D1117&borderRadius=18px&idleMessage=Building%20clean%20systems" alt="Discord Presence" />
+</a>
 
 <br />
-
-<a href="https://hymndavinci.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-hymndavinci.my.id-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
 <br />
-<a href="mailto:hymndavinci@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<img src="https://img.shields.io/badge/Discord-Channel-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Channel" />
 
 </td>
 </tr>
@@ -107,6 +98,9 @@ Discord utilities, queue processors, scheduled jobs, API integrations, and techn
   </a>
   <a href="https://t.me/cahay4ngkasa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/443335216833101825" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord" />
   </a>
 </div>
 
