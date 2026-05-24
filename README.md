@@ -1,132 +1,81 @@
 <div align="center">
 
-# Muhammad Bintang Kurniawan
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Muhammad+Bintang+Kurniawan;Web+Developer+%2F+Automation+Builder;Clean+UI+%E2%80%A2+Useful+Systems+%E2%80%A2+Solid+Execution" alt="Typing SVG" />
 
-**Software Engineering Enthusiast**  
-Computer Science student focused on web development, dashboard systems, automation, and clean digital products.
+<br />
 
 <a href="https://hymndavinci.my.id">
-  <img src="https://img.shields.io/badge/Portfolio-hymndavinci.my.id-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/website-hymndavinci.my.id-111111?style=flat-square&logo=vercel&logoColor=white" alt="Website" />
 </a>
 <a href="mailto:hymndavinci@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/email-contact-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://instagram.com/bintankdisini">
-  <img src="https://img.shields.io/badge/Instagram-@bintankdisini-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/instagram-@bintankdisini-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://t.me/cahay4ngkasa">
-  <img src="https://img.shields.io/badge/Telegram-@cahay4ngkasa-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/telegram-@cahay4ngkasa-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 </div>
 
----
+<br />
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+```txt
+hymndavinci@github
+────────────────────────────────────────────────────────
+role        Computer Science Student / Web Developer
+location    Indonesia
+focus       Web apps, dashboards, automation, developer tools
+style       clean interface, maintainable system, practical output
+learning    backend architecture, security fundamentals, workflow tooling
+```
 
-### Profile
+## About
 
-I build practical software with a strong focus on interface quality, maintainability, and useful automation.
-
-My work mostly sits around full-stack web apps, control panels, Discord tooling, API integrations, worker services, and developer-focused utilities.
+I build web interfaces, dashboards, automation tools, and Discord-related systems.  
+My work focuses on making software that looks clean, runs reliably, and stays easy to maintain.
 
 ```ts
-const profile = {
-  name: 'Muhammad Bintang Kurniawan',
-  handle: 'hymndavinci',
-  location: 'Indonesia',
-  role: 'Software Engineering Enthusiast',
-  focus: ['Web Development', 'Dashboard Systems', 'Automation Tools'],
+const work = {
+  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+  backend: ['Node.js', 'Express', 'REST API', 'Prisma'],
+  tools: ['Git', 'GitHub', 'Vercel', 'Cloudflare', 'Linux'],
+  interests: ['Automation', 'Dashboards', 'Developer Experience', 'Security'],
 }
 ```
 
-</td>
-<td width="38%" valign="top">
-
-### Snapshot
-
-```txt
-Role        Student Developer
-Focus       Web · Backend · Automation
-Stack       TS · Node · Next.js
-Workflow    Build · Test · Refine
-Direction   Useful software
-```
-
-</td>
-  </tr>
-</table>
-
----
-
-### Tech Stack
+## Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=flat-square&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vercel,cloudflare,linux&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-### Engineering Focus
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-**Interface**
-
-Clean layouts, responsive dashboards, component structure, and readable user flows.
-
-</td>
-<td width="33%" valign="top">
-
-**Backend**
-
-REST routes, auth flow, data handling, queue workers, and operational tooling.
-
-</td>
-<td width="33%" valign="top">
-
-**Automation**
-
-Discord utilities, scheduled jobs, worker services, API integrations, and runtime cleanup.
-
-</td>
-  </tr>
-</table>
-
----
-
-### Current Direction
+## Direction
 
 ```txt
-Build cleaner dashboards
-Improve backend structure
-Ship practical automation tools
-Strengthen security fundamentals
-Keep projects maintainable
+01  Build cleaner full-stack web apps
+02  Design dashboard interfaces that are clear and usable
+03  Create automation tools for repetitive technical work
+04  Improve backend structure and deployment workflow
+05  Learn security fundamentals through practical systems
 ```
 
----
+## Workflow
+
+```txt
+Think clearly  →  Build small  →  Test directly  →  Refactor hard  →  Ship clean
+```
 
 <div align="center">
 
-<i>Building useful software with clean interfaces and solid execution.</i>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hymndavinci&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0D1117&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Stats" />
+
+<br />
+<br />
+
+<sub>clean systems, sharp interfaces, practical software</sub>
 
 </div>
