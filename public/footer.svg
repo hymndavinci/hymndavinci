@@ -1,0 +1,15 @@
+<svg width="1280" height="90" viewBox="0 0 1280 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090808"/>
+      <stop offset="0.25" stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="0.75" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#090808"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="90" rx="22" fill="#090808"/>
+  <rect x="1" y="1" width="1278" height="88" rx="21" stroke="#38BDF8" stroke-opacity="0.22"/>
+  <path d="M60 45H1220" stroke="url(#g)" stroke-width="2"/>
+  <text x="640" y="53" text-anchor="middle" fill="#E0F2FE" font-family="JetBrains Mono, Consolas, monospace" font-size="18" letter-spacing="2">CLEAN SYSTEMS · SHARP INTERFACES · PRACTICAL SOFTWARE</text>
+</svg>
