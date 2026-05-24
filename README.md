@@ -61,6 +61,10 @@ base      indonesia
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hymndavinci&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="120" alt="GitHub Streak" />
+</p>
+
 ## Development Focus
 
 <table border="0">
