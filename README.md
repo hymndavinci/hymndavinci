@@ -40,7 +40,7 @@ I like software that is simple to use, structured well, and useful in real workf
 <h2>Discord Profile Activity</h2>
 
 <a href="https://discord.com/users/443335216833101825">
-  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&idleMessage=Lets%20Connects!" alt="Discord Presence" />
+  <img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&animated=true&idleMessage=Lets%20Connects!" alt="Discord Presence" />
 </a>
 
 <br />
