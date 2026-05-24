@@ -24,7 +24,7 @@ Computer Science student focused on web development, dashboard systems, automati
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="62%" valign="top">
 
 ### Profile
 
@@ -38,21 +38,22 @@ const profile = {
   handle: 'hymndavinci',
   location: 'Indonesia',
   role: 'Software Engineering Enthusiast',
-  focus: [
-    'Web Development',
-    'Dashboard Systems',
-    'Automation Tools',
-    'Developer Workflow',
-  ],
+  focus: ['Web Development', 'Dashboard Systems', 'Automation Tools'],
 }
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### Live Presence
+### Snapshot
 
-<img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=38BDF8&waveSpotifyColor=38BDF8&gradient=0A0A0A&borderRadius=18px&bg=0A0A0A&animated=true&hideDiscrim=true&idleMessage=Probably%20building%20something" alt="Discord Presence" />
+```txt
+Role        Student Developer
+Focus       Web · Backend · Automation
+Stack       TS · Node · Next.js
+Workflow    Build · Test · Refine
+Direction   Useful software
+```
 
 </td>
   </tr>
@@ -82,25 +83,45 @@ const profile = {
 
 ---
 
-### Current Focus
+### Engineering Focus
 
-```txt
-Full-stack web apps        Clean interface systems
-Dashboard architecture     API integration workflows
-Automation services        Backend and security fundamentals
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+**Interface**
+
+Clean layouts, responsive dashboards, component structure, and readable user flows.
+
+</td>
+<td width="33%" valign="top">
+
+**Backend**
+
+REST routes, auth flow, data handling, queue workers, and operational tooling.
+
+</td>
+<td width="33%" valign="top">
+
+**Automation**
+
+Discord utilities, scheduled jobs, worker services, API integrations, and runtime cleanup.
+
+</td>
+  </tr>
+</table>
 
 ---
 
-### Work Area
+### Current Direction
 
-| Area | Direction |
-| --- | --- |
-| **Frontend** | Interface systems, responsive layouts, product dashboards |
-| **Backend** | REST routes, auth flow, data handling, service structure |
-| **Automation** | Discord utilities, workers, queues, scheduled jobs |
-| **Infrastructure** | Deployment workflow, server panels, monitoring, runtime cleanup |
-| **Learning** | Security basics, system design, maintainable architecture |
+```txt
+Build cleaner dashboards
+Improve backend structure
+Ship practical automation tools
+Strengthen security fundamentals
+Keep projects maintainable
+```
 
 ---
 
