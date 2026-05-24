@@ -1,0 +1,20 @@
+<svg width="1280" height="110" viewBox="0 0 1280 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090808"/>
+      <stop offset="0.5" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="110" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="108" rx="21" stroke="#38BDF8" stroke-opacity="0.28"/>
+  <text x="44" y="64" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="700">stack</text>
+  <text x="146" y="64" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="20">JavaScript</text>
+  <text x="288" y="64" fill="#67E8F9" font-family="JetBrains Mono, Consolas, monospace" font-size="20">TypeScript</text>
+  <text x="446" y="64" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="20">React</text>
+  <text x="548" y="64" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Next.js</text>
+  <text x="672" y="64" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Tailwind</text>
+  <text x="812" y="64" fill="#67E8F9" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Node.js</text>
+  <text x="948" y="64" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Express</text>
+  <text x="1084" y="64" fill="#E2E8F0" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Linux</text>
+</svg>
