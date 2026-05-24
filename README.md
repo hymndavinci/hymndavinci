@@ -61,11 +61,33 @@ base      indonesia
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hymndavinci&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" height="115" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hymndavinci&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="115" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hymndavinci&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" height="115" alt="Top Languages" />
-</p>
+## Development Focus
+
+<table border="0">
+<tr>
+<td width="33%" valign="top">
+
+### Interface
+
+Clean layouts, responsive dashboards, readable components, and UI flows that stay easy to use.
+
+</td>
+<td width="33%" valign="top">
+
+### Backend
+
+REST routes, auth flow, data handling, worker services, deployment workflow, and runtime structure.
+
+</td>
+<td width="33%" valign="top">
+
+### Automation
+
+Discord utilities, queue processors, scheduled jobs, API integrations, and technical workflow tools.
+
+</td>
+</tr>
+</table>
 
 ## Lets Connect
 
@@ -81,12 +103,6 @@ base      indonesia
   </a>
   <a href="https://t.me/cahay4ngkasa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/hymndavinci">
-    <img alt="profile banner" src="https://typograssy.deno.dev/api?text=clean%20systems%20%20sharp%20interfaces%20%20&l0=none&l1=0D1117&l2=111827&l3=1E293B&l4=38BDF8&bg=none&frame=none&speed=100">
   </a>
 </div>
 
