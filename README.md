@@ -46,7 +46,7 @@ I like software that is simple to use, structured well, and useful in real workf
 <br />
 <br />
 
-<a href="https://discord.com/users/443335216833101825">
+<a href="https://discord.gg/b9qVB5SYh6">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=84&color=0:5865F2,100:38BDF8&text=Discord%20Channel&fontColor=FFFFFF&fontSize=24&fontAlign=36&fontAlignY=45&desc=Chat%20now%20%E2%86%92&descAlign=76&descAlignY=48&descSize=15" alt="Discord Channel" />
 </a>
 
@@ -102,7 +102,10 @@ Discord utilities, queue processors, scheduled jobs, API integrations, and techn
     <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/443335216833101825" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Profile" />
+  </a>
+  <a href="https://discord.gg/b9qVB5SYh6" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Channel-111827?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Channel" />
   </a>
 </div>
 
