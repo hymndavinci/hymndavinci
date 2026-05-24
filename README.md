@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090808,50:0D1117,100:38BDF8&text=Muhammad%20Bintang%20Kurniawan&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=34&desc=Web%20Developer%20%2F%20Automation%20Builder&descAlign=50&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="./public/banner.svg" alt="header" />
 
 # Hello Connections!
 
@@ -6,17 +6,13 @@
 
 I am **Muhammad Bintang Kurniawan**, a developer focused on building clean web interfaces, practical dashboards, and useful digital systems.
 
-I believe useful software should stay readable, modular, and maintainable. My goal is to build practical systems that are easy to use, reliable to run, and clean enough to keep improving.
+I believe good software should stay readable, modular, and maintainable. My goal is to build practical systems that are easy to use, reliable to run, and clean enough to keep improving.
 
 > [!NOTE]
 > Currently working on web dashboards, backend structure, developer workflow, and automation projects under **hymndavinci**.
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090808,50:38BDF8,100:090808" alt="divider" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vercel,cloudflare,linux&theme=dark" alt="stack" />
+  <img width="100%" src="./public/stack.svg" alt="stack" />
 </p>
 
 <table border="0">
@@ -72,9 +68,7 @@ I believe useful software should stay readable, modular, and maintainable. My go
 </div>
 
 <div align="center">
-  <a href="https://github.com/hymndavinci">
-    <img alt="clean systems" src="https://typograssy.deno.dev/api?text=Clean%20Systems%20%20Sharp%20Interfaces%20%20&l0=none&l1=fffaf0&l2=cffafe&l3=67e8f9&l4=38BDF8&bg=none&frame=none&speed=100">
-  </a>
+  <img width="100%" src="./public/footer.svg" alt="footer" />
 </div>
 
 <p align="center">
