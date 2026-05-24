@@ -1,52 +1,91 @@
-<h1 align="center">hymn</h1>
+<h1 align="center">Muhammad Bintang Kurniawan</h1>
 
 <p align="center">
-  Computer Science student from Indonesia.<br />
-  Building web apps, dashboards, automation tools, and Discord-related systems.
+  <b>Software Engineering Enthusiast</b><br />
+  Building web interfaces, full-stack projects, automation tools, and clean digital experiences.
 </p>
 
 <p align="center">
-  <a href="https://hymndavinci.my.id">Website</a> ·
-  <a href="mailto:hymndavinci@gmail.com">Email</a> ·
-  <a href="https://instagram.com/bintankdisini">Instagram</a> ·
-  <a href="https://t.me/cahay4ngkasa">Telegram</a>
+  <a href="https://hymndavinci.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-hymndavinci.my.id-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hymndavinci@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/bintankdisini">
+    <img src="https://img.shields.io/badge/Instagram-@bintankdisini-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/cahay4ngkasa">
+    <img src="https://img.shields.io/badge/Telegram-@cahay4ngkasa-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://lanyard.kyrie25.dev/api/443335216833101825?waveColor=38BDF8&waveSpotifyColor=38BDF8&gradient=0A0A0A&borderRadius=18px&bg=0A0A0A" alt="Discord Presence" />
 </p>
 
 ---
 
 ### About
 
-I work mostly with JavaScript, Node.js, React, Next.js, and Tailwind CSS.
+I am an Indonesian Computer Science student focused on practical software development. I like building products that are visually clean, technically useful, and easy to maintain.
 
-My focus is simple: build useful things, keep the interface clean, and make the system easy to maintain.
+My work mostly revolves around modern web development, dashboards, automation systems, Discord tooling, API integration, and experiments around developer workflows.
 
-```txt
-Web Development · Dashboard UI · Automation · Discord Tools · Cybersecurity Learning
+```ts
+const profile = {
+  name: 'Muhammad Bintang Kurniawan',
+  handle: 'hymndavinci',
+  role: 'Software Engineering Enthusiast',
+  location: 'Indonesia',
+  focus: ['Web Development', 'Full-Stack Apps', 'Automation', 'Developer Tools'],
+}
 ```
 
 ---
 
-### Stack
+### Tech Stack
 
-```txt
-Frontend   React · Next.js · TypeScript · Tailwind CSS
-Backend    Node.js · Express · REST API
-Tools      Git · GitHub · Vercel · Cloudflare · Linux
-Learning   Security fundamentals · System design · Automation workflows
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=flat-square&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### Projects
+### Current Focus
 
-- **Hymn+** — Discord workflow dashboard with multi-account control, RPC, music, worker tools, and automation.
-- **BintangMovies** — movie website with a dark streaming-style interface.
-- **SiagaCuaca** — weather app with atmospheric UI.
-- **Anti Gravity** — anime aggregator using AniList, Jikan, and iframe providers.
-- **Spotidown** — Spotify track downloader using Node.js, yt-dlp, and FFmpeg.
+- Building cleaner full-stack web apps
+- Improving UI systems and interaction design
+- Working with API integrations and automation flows
+- Learning stronger backend architecture and security fundamentals
+- Shipping projects with better performance and maintainability
+
+---
+
+### Work Area
+
+| Area | Focus |
+| --- | --- |
+| **Web Apps** | Interfaces, dashboards, API-driven products |
+| **Full-Stack** | Auth flow, database models, REST routes, deployment |
+| **Automation** | Discord utilities, worker services, queue processors |
+| **Learning** | Security basics, backend architecture, performance |
 
 ---
 
 <p align="center">
-  building, breaking, fixing, repeating
+  <i>Focused on building useful software with clean interfaces and solid execution.</i>
 </p>
