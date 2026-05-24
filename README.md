@@ -1,53 +1,79 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:111827,100:38BDF8&text=Muhammad%20Bintang%20Kurniawan&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=34&desc=Web%20Developer%20%2F%20Automation%20Builder&descAlign=50&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:111827,100:38BDF8&text=Muhammad%20Bintang%20Kurniawan&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=34&desc=Web%20Developer%20%E2%80%A2%20Automation%20Builder&descAlign=50&descAlignY=58&descSize=16" alt="header" />
+
+<div align="center">
 
 # Hello Connections!
 
-<img align="right" src="https://avatars.githubusercontent.com/u/169892524?v=4" width="150" alt="hymndavinci avatar" />
+**Web Developer · Automation Builder**  
+Building clean interfaces, practical dashboards, and useful systems.
 
-I am **Muhammad Bintang Kurniawan**, an Indonesian Computer Science student focused on building clean web interfaces, practical dashboards, automation tools, and Discord-related systems.
+<a href="https://hymndavinci.my.id">
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+</a>
+<a href="mailto:hymndavinci@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/bintankdisini">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/cahay4ngkasa">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://discord.gg/b9qVB5SYh6">
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord" />
+</a>
 
-I like software that is simple to use, structured well, and useful in real workflows. My current direction is around full-stack development, API integration, worker services, dashboard architecture, and security fundamentals.
+</div>
 
-> [!NOTE]
-> Currently improving my development workflow, backend structure, and automation projects under **hymndavinci**.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8" alt="divider" />
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,mysql,git,github,vercel,cloudflare,linux&theme=dark" alt="Tech Stack" />
 </p>
 
-<table border="0">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="56%" valign="top">
 
-<h2>Developer Activity</h2>
+## About Me
 
-<p>Currently active in web development, dashboard systems, automation tooling, and developer workflow experiments.</p>
+I am **Muhammad Bintang Kurniawan**, an Indonesian Computer Science student focused on building practical software.
 
-<ul>
-  <li><b>Building:</b> full-stack apps, control panels, Discord utilities, and worker-based tools.</li>
-  <li><b>Improving:</b> clean UI systems, backend structure, API routes, and deployment workflow.</li>
-  <li><b>Learning:</b> security fundamentals, system design basics, Linux workflow, and maintainable architecture.</li>
-  <li><b>Direction:</b> practical software with clean interfaces and solid execution.</li>
-</ul>
+My work mostly revolves around:
 
-<p align="right"><i>"Build useful systems. Keep the interface clean."</i></p>
+- clean web interfaces
+- dashboard systems
+- Discord-related tools
+- automation workflows
+- backend structure and API integration
+
+I care about software that is:
+
+- easy to use
+- easy to maintain
+- useful in real workflows
+
+## Current Focus
+
+- Building cleaner full-stack web apps
+- Improving dashboard architecture
+- Creating useful automation tools
+- Learning stronger backend and security fundamentals
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="44%" valign="top">
 
-<h2>Discord Profile Activity</h2>
+## Discord Activity
 
 <a href="https://discord.com/users/443335216833101825">
-  <img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&animated=true&idleMessage=Lets%20Connects!" alt="Discord Presence" />
+  <img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?theme=dark&bg=0D1117&borderRadius=18px&animated=true&hideDiscrim=true&idleMessage=Building%20clean%20systems" alt="Discord Presence" />
 </a>
 
 <br />
 <br />
 
 <a href="https://discord.gg/b9qVB5SYh6">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=84&color=0:5865F2,100:38BDF8&text=Discord%20Channel&fontColor=FFFFFF&fontSize=24&fontAlign=36&fontAlignY=45&desc=Chat%20now%20%E2%86%92&descAlign=76&descAlignY=48&descSize=15" alt="Discord Channel" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=78&color=0:5865F2,100:38BDF8&text=Join%20My%20Discord&fontColor=FFFFFF&fontSize=24&fontAlign=32&fontAlignY=45&desc=discord.gg/b9qVB5SYh6&descAlign=76&descAlignY=46&descSize=14" alt="Discord Channel" />
 </a>
 
 </td>
@@ -55,32 +81,32 @@ I like software that is simple to use, structured well, and useful in real workf
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hymndavinci&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="120" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hymndavinci&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
-## Development Focus
+## Work Area
 
-<table border="0">
+<table>
 <tr>
 <td width="33%" valign="top">
 
-### Interface
+### Frontend
 
-Clean layouts, responsive dashboards, readable components, and UI flows that stay easy to use.
+Responsive interfaces, component structure, dashboard layouts, and clean UI systems.
 
 </td>
 <td width="33%" valign="top">
 
 ### Backend
 
-REST routes, auth flow, data handling, worker services, deployment workflow, and runtime structure.
+REST routes, auth flow, data handling, service structure, and deployment workflow.
 
 </td>
 <td width="33%" valign="top">
 
 ### Automation
 
-Discord utilities, queue processors, scheduled jobs, API integrations, and technical workflow tools.
+Discord utilities, worker services, queue processors, scheduled jobs, and API integrations.
 
 </td>
 </tr>
@@ -89,24 +115,23 @@ Discord utilities, queue processors, scheduled jobs, API integrations, and techn
 ## Lets Connect
 
 <div align="center">
-  <a href="https://github.com/hymndavinci" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://hymndavinci.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://instagram.com/bintankdisini" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/cahay4ngkasa" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com/users/443335216833101825" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Profile" />
-  </a>
-  <a href="https://discord.gg/b9qVB5SYh6" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Channel-111827?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Channel" />
-  </a>
+
+<a href="https://github.com/hymndavinci">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://hymndavinci.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://instagram.com/bintankdisini">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/cahay4ngkasa">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://discord.gg/b9qVB5SYh6">
+  <img src="https://img.shields.io/badge/Discord%20Channel-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Channel" />
+</a>
+
 </div>
 
 <p align="center">
