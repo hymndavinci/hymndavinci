@@ -40,13 +40,15 @@ I like software that is simple to use, structured well, and useful in real workf
 <h2>Discord Status</h2>
 
 <a href="https://discord.com/users/443335216833101825">
-  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=0D1117&borderRadius=18px&idleMessage=Building%20clean%20systems" alt="Discord Presence" />
+  <img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=0D1117&borderRadius=18px&hideActivity=true&idleMessage=Building%20clean%20systems" alt="Discord Presence" />
 </a>
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Discord-Channel-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Channel" />
+<a href="https://discord.com/users/443335216833101825">
+  <img src="https://img.shields.io/badge/Discord-Profile-0D1117?style=for-the-badge&logo=discord&logoColor=38BDF8" alt="Discord Profile" />
+</a>
 
 </td>
 </tr>
