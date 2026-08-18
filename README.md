@@ -31,7 +31,7 @@ I believe good software should stay readable, modular, and maintainable. My goal
 <td width="40%" valign="top" align="center">
 <h2>Discord Profile Activity</h2>
 <a href="https://discord.com/users/443335216833101825">
-<img width="100%" src="https://lanyard.kyrie25.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&animated=true&hideDiscrim=true&idleMessage=Lets%20Connects!" alt="Discord Presence">
+<img width="100%" src="https://lanyard.cnrad.dev/api/443335216833101825?theme=dark&bg=090808&borderRadius=18px&animated=true&hideDiscrim=true&idleMessage=Lets%20Connects!" alt="Discord Presence">
 </a>
 <br/><br/>
 <a href="https://discord.gg/b9qVB5SYh6">
