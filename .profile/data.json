@@ -1,0 +1,353 @@
+{
+ "key": "a70a793f",
+ "stars": 4,
+ "contributions": 537,
+ "repos": 20,
+ "followers": 0,
+ "languages": [
+  [
+   "HTML",
+   1397294
+  ],
+  [
+   "JavaScript",
+   910067
+  ],
+  [
+   "TypeScript",
+   686176
+  ],
+  [
+   "CSS",
+   380647
+  ],
+  [
+   "EJS",
+   338749
+  ],
+  [
+   "SCSS",
+   210403
+  ],
+  [
+   "Astro",
+   102578
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 14
+ },
+ "pins": [
+  {
+   "name": "hymndavinci",
+   "url": "https://github.com/hymndavinci/hymndavinci",
+   "text": "its me!",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "rpc-v2",
+   "url": "https://github.com/hymndavinci/rpc-v2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "code-explainer",
+   "url": "https://github.com/hymndavinci/code-explainer",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "hymndavinci",
+   "url": "https://github.com/hymndavinci/hymndavinci",
+   "text": "its me!",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "login-page",
+   "url": "https://github.com/hymndavinci/login-page",
+   "text": "template for login page",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "freebuff2api-wokers",
+   "url": "https://github.com/hymndavinci/freebuff2api-wokers",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Kasir-Pintar",
+   "url": "https://github.com/hymndavinci/Kasir-Pintar",
+   "text": "just ordinary Kasir Pintar Webapp",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "portofolio",
+   "url": "https://github.com/hymndavinci/portofolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "selfbot-q",
+   "url": "https://github.com/hymndavinci/selfbot-q",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/hymndavinci/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "animestream",
+   "url": "https://github.com/hymndavinci/animestream",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "qr-gen",
+   "url": "https://github.com/hymndavinci/qr-gen",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "cloner-v2",
+   "url": "https://github.com/hymndavinci/cloner-v2",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "rpc",
+   "url": "https://github.com/hymndavinci/rpc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Exe",
+   "url": "https://github.com/hymndavinci/Exe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hymn",
+   "url": "https://github.com/hymndavinci/hymn",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Astro",
+   "topics": []
+  },
+  {
+   "name": "poertoe",
+   "url": "https://github.com/hymndavinci/poertoe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "landing-dahayu",
+   "url": "https://github.com/hymndavinci/landing-dahayu",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "landing-page",
+   "url": "https://github.com/hymndavinci/landing-page",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "ALL-IN-ONE-Discord-Bot-",
+   "url": "https://github.com/hymndavinci/ALL-IN-ONE-Discord-Bot-",
+   "text": "An advance discord bot with 500+ commands",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "bot-telegram",
+   "url": "https://github.com/hymndavinci/bot-telegram",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

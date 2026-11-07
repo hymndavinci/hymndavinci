@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/hymndavinci/hymndavinci"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hymndavinci-dark.svg"><img src="assets/project-hymndavinci-light.svg" width="49%" alt="hymndavinci"></picture></a>&nbsp;<a href="https://github.com/hymndavinci/rpc-v2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rpc-v2-dark.svg"><img src="assets/project-rpc-v2-light.svg" width="49%" alt="rpc-v2"></picture></a>
-
-<a href="https://github.com/hymndavinci/code-explainer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-code-explainer-dark.svg"><img src="assets/project-code-explainer-light.svg" width="49%" alt="code-explainer"></picture></a>&nbsp;<a href="https://github.com/hymndavinci/login-page"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-login-page-dark.svg"><img src="assets/project-login-page-light.svg" width="49%" alt="login-page"></picture></a>
+<a href="https://github.com/hymndavinci/hymndavinci"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hymndavinci-dark.svg"><img src="assets/project-hymndavinci-light.svg" width="49%" alt="hymndavinci"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
