@@ -1,0 +1,31 @@
+<svg width="440" height="440" viewBox="0 0 440 440" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="440" height="440" rx="10" fill="#0b1120" />
+  <text x="220" y="30" text-anchor="middle" class="title">focus</text>
+  <text x="220" y="50" text-anchor="middle" class="sub">public repos by category</text>
+  <style>
+    .title { font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #e8384f; }
+    .sub { font-family: 'Courier New', monospace; font-size: 11px; fill: #7f8aa6; }
+    .lab { font-family: 'Courier New', monospace; font-size: 12px; font-weight: bold; fill: #e8e8e8; }
+    .val { font-family: 'Courier New', monospace; font-size: 11px; fill: #5dc9f2; }
+  </style>
+  <polygon points="220.0,196.5 253.8,221.0 240.9,260.7 199.1,260.7 186.2,221.0" fill="none" stroke="#2a3350" stroke-width="1" />
+  <polygon points="220.0,161.0 287.5,210.1 261.7,289.4 178.3,289.4 152.5,210.1" fill="none" stroke="#2a3350" stroke-width="1" />
+  <polygon points="220.0,125.5 321.3,199.1 282.6,318.2 157.4,318.2 118.7,199.1" fill="none" stroke="#2a3350" stroke-width="1" />
+  <polygon points="220.0,90.0 355.1,188.1 303.5,346.9 136.5,346.9 84.9,188.1" fill="none" stroke="#2a3350" stroke-width="1" />
+  <line x1="220.0" y1="232.0" x2="220.0" y2="90.0" stroke="#2a3350" stroke-width="1" />
+  <line x1="220.0" y1="232.0" x2="355.1" y2="188.1" stroke="#2a3350" stroke-width="1" />
+  <line x1="220.0" y1="232.0" x2="303.5" y2="346.9" stroke="#2a3350" stroke-width="1" />
+  <line x1="220.0" y1="232.0" x2="136.5" y2="346.9" stroke="#2a3350" stroke-width="1" />
+  <line x1="220.0" y1="232.0" x2="84.9" y2="188.1" stroke="#2a3350" stroke-width="1" />
+  <polygon points="220.0,90.0 310.5,202.6 275.9,309.0 205.8,251.5 175.4,217.5" fill="#5dc9f2" fill-opacity="0.25" stroke="#5dc9f2" stroke-width="2" stroke-linejoin="round" />
+  <circle cx="220.0" cy="90.0" r="3.5" fill="#e8384f" />
+  <circle cx="310.5" cy="202.6" r="3.5" fill="#e8384f" />
+  <circle cx="275.9" cy="309.0" r="3.5" fill="#e8384f" />
+  <circle cx="205.8" cy="251.5" r="3.5" fill="#e8384f" />
+  <circle cx="175.4" cy="217.5" r="3.5" fill="#e8384f" />
+  <text x="220.0" y="74.0" text-anchor="middle" class="lab">Web Apps</text><text x="220.0" y="89.0" text-anchor="middle" class="val">6 repos</text>
+  <text x="370.3" y="183.2" text-anchor="start" class="lab">Discord</text><text x="370.3" y="198.2" text-anchor="start" class="val">4 repos</text>
+  <text x="312.9" y="359.8" text-anchor="start" class="lab">Landing Pages</text><text x="312.9" y="374.8" text-anchor="start" class="val">4 repos</text>
+  <text x="127.1" y="359.8" text-anchor="end" class="lab">AI / LLM</text><text x="127.1" y="374.8" text-anchor="end" class="val">1 repo</text>
+  <text x="69.7" y="183.2" text-anchor="end" class="lab">Tools</text><text x="69.7" y="198.2" text-anchor="end" class="val">2 repos</text>
+</svg>
