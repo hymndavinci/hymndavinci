@@ -18,16 +18,16 @@
   <line x1="220.0" y1="232.0" x2="220.0" y2="374.0" stroke="#2a3350" stroke-width="1" />
   <line x1="220.0" y1="232.0" x2="97.0" y2="303.0" stroke="#2a3350" stroke-width="1" />
   <line x1="220.0" y1="232.0" x2="97.0" y2="161.0" stroke="#2a3350" stroke-width="1" />
-  <polygon points="220.0,90.0 254.4,212.1 325.8,293.1 220.0,266.1 138.8,278.9 201.6,221.3" fill="#5dc9f2" fill-opacity="0.25" stroke="#5dc9f2" stroke-width="2" stroke-linejoin="round" />
+  <polygon points="220.0,90.0 254.4,212.1 330.7,295.9 220.0,266.1 138.8,278.9 201.6,221.3" fill="#5dc9f2" fill-opacity="0.25" stroke="#5dc9f2" stroke-width="2" stroke-linejoin="round" />
   <circle cx="220.0" cy="90.0" r="3.5" fill="#e8384f" />
   <circle cx="254.4" cy="212.1" r="3.5" fill="#e8384f" />
-  <circle cx="325.8" cy="293.1" r="3.5" fill="#e8384f" />
+  <circle cx="330.7" cy="295.9" r="3.5" fill="#e8384f" />
   <circle cx="220.0" cy="266.1" r="3.5" fill="#e8384f" />
   <circle cx="138.8" cy="278.9" r="3.5" fill="#e8384f" />
   <circle cx="201.6" cy="221.3" r="3.5" fill="#e8384f" />
-  <text x="220.0" y="74.0" text-anchor="middle" class="lab">HTML</text><text x="220.0" y="89.0" text-anchor="middle" class="val">31%</text>
+  <text x="220.0" y="74.0" text-anchor="middle" class="lab">HTML</text><text x="220.0" y="89.0" text-anchor="middle" class="val">30%</text>
   <text x="356.8" y="153.0" text-anchor="start" class="lab">CSS</text><text x="356.8" y="168.0" text-anchor="start" class="val">8%</text>
-  <text x="356.8" y="311.0" text-anchor="start" class="lab">TypeScript</text><text x="356.8" y="326.0" text-anchor="start" class="val">26%</text>
+  <text x="356.8" y="311.0" text-anchor="start" class="lab">TypeScript</text><text x="356.8" y="326.0" text-anchor="start" class="val">27%</text>
   <text x="220.0" y="390.0" text-anchor="middle" class="lab">EJS</text><text x="220.0" y="405.0" text-anchor="middle" class="val">7%</text>
   <text x="83.2" y="311.0" text-anchor="end" class="lab">JavaScript</text><text x="83.2" y="326.0" text-anchor="end" class="val">20%</text>
   <text x="83.2" y="153.0" text-anchor="end" class="lab">SCSS</text><text x="83.2" y="168.0" text-anchor="end" class="val">5%</text>
