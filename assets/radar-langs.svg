@@ -25,10 +25,10 @@
   <circle cx="220.0" cy="256.1" r="3.5" fill="#e8384f" />
   <circle cx="163.4" cy="264.7" r="3.5" fill="#e8384f" />
   <circle cx="206.5" cy="224.2" r="3.5" fill="#e8384f" />
-  <text x="220.0" y="74.0" text-anchor="middle" class="lab">TypeScript</text><text x="220.0" y="89.0" text-anchor="middle" class="val">37%</text>
+  <text x="220.0" y="74.0" text-anchor="middle" class="lab">TypeScript</text><text x="220.0" y="89.0" text-anchor="middle" class="val">36%</text>
   <text x="356.8" y="153.0" text-anchor="start" class="lab">CSS</text><text x="356.8" y="168.0" text-anchor="start" class="val">7%</text>
-  <text x="356.8" y="311.0" text-anchor="start" class="lab">HTML</text><text x="356.8" y="326.0" text-anchor="start" class="val">26%</text>
+  <text x="356.8" y="311.0" text-anchor="start" class="lab">HTML</text><text x="356.8" y="326.0" text-anchor="start" class="val">25%</text>
   <text x="220.0" y="390.0" text-anchor="middle" class="lab">EJS</text><text x="220.0" y="405.0" text-anchor="middle" class="val">6%</text>
   <text x="83.2" y="311.0" text-anchor="end" class="lab">JavaScript</text><text x="83.2" y="326.0" text-anchor="end" class="val">17%</text>
-  <text x="83.2" y="153.0" text-anchor="end" class="lab">SCSS</text><text x="83.2" y="168.0" text-anchor="end" class="val">4%</text>
+  <text x="83.2" y="153.0" text-anchor="end" class="lab">Python</text><text x="83.2" y="168.0" text-anchor="end" class="val">4%</text>
 </svg>
